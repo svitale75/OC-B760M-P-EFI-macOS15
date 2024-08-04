@@ -20,8 +20,9 @@
 8. Download **OpenCore Configurator** and open **config.plist** from your EFI folder
 9. Under **PlattformInfo**, select the DataHub - Generic - PlattformNVRAM. Select **MacPro7,1**
 10. Save **config.plist**
-11. Download the RadeonGadget.app from this [repository](https://github.com/ChefKissInc/RadeonSensor) and add it as a login item to show GPU temp on the menu bar
-12. After the installation, move the install drive's EFI to your main drive EFI partition
+11. Download the HeliPort.app from this [repository](https://github.com/OpenIntelWireless/HeliPort) and add it as a login item to show WiFi options on the menu bar
+13. Download the RadeonGadget.app from this [repository](https://github.com/ChefKissInc/RadeonSensor) and add it as a login item to show GPU temp on the menu bar
+14. After the installation, move the install drive's EFI to your main drive EFI partition
     
 **Credits**
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
