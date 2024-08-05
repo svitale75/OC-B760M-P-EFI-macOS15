@@ -29,7 +29,7 @@
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [Acidanthera](https://github.com/acidanthera)
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
-- [Mr. Macintosh](https://github.com/OpenIntelWireless/HeliPort](https://mrmacintosh.com/)
+- [Mr. Macintosh](https://mrmacintosh.com/)
 
 **System Info**
 
