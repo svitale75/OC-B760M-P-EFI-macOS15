@@ -34,4 +34,4 @@
 
 <img src="img/info2.png"/>
 
-<img src="img/01.png" width="auto"/>
+<img src="img/01.png" width="100%"/>
