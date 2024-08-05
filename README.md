@@ -10,7 +10,7 @@
 - Sequoia 15.0 Beta (24A5298h)
 
 **User's to do:** 
-1. Download Sequioia - macOS 15.0 Beta (24A5298h)
+1. Download Sequioia - [macOS 15.0 Beta (24A5298h)](https://swcdn.apple.com/content/downloads/48/45/062-39268-A_36NTYE5BPL/0cd85jhjwcbnmk5fqvu4yp323wcmzr9jmu/InstallAssistant.pkg)
 2. Download **OpenCore Legacy Patcher**
 3. Create mac OS istaller for macOS **Sequoia** to a drive
 4. Build and install OpenCore to the same drive
