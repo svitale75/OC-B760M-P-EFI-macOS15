@@ -28,6 +28,7 @@
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [Acidanthera](https://github.com/acidanthera)
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
+- [HeliPort](https://github.com/OpenIntelWireless/HeliPort)
 
 **System Info**
 
