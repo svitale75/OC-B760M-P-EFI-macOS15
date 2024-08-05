@@ -23,7 +23,7 @@
 10. Save **config.plist**
 11. Download the HeliPort.app from this [repository](https://github.com/OpenIntelWireless/HeliPort) and add it as a login item to show WiFi options on the menu bar
 13. Download the RadeonGadget.app from this [repository](https://github.com/ChefKissInc/RadeonSensor) and add it as a login item to show GPU temp on the menu bar
-14. After the installation, move the install drive's EFI to your main drive EFI partition
+14. After the installation, move the install drive's EFI folder to your main startup drive EFI partition
     
 **Credits**
 - [HeliPort](https://github.com/OpenIntelWireless/HeliPort)
