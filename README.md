@@ -34,10 +34,4 @@
 
 <img src="img/info2.png"/>
 
-**Geekbench Results**
-
-<img src="img/001.png" width="100%"/>
-<img src="img/002.png" width="100%"/>
-<img src="img/003.png" width="100%"/>
-<img src="img/005.png" width="100%"/>
-<img src="img/006.png" width="100%"/>
+<img src="img/01.png" width="auto"/>
