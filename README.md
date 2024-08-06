@@ -27,7 +27,7 @@
     
 **Credits**
 - [OpenIntelWireless](https://github.com/OpenIntelWireless)
-- (https://github.com/perez987/Intel-AX210-wifi6-on-macOS-Sonoma)
+- [perez987](https://github.com/perez987/Intel-AX210-wifi6-on-macOS-Sonoma)
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [Acidanthera](https://github.com/acidanthera)
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
