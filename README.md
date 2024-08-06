@@ -26,7 +26,7 @@
 14. After the installation, move the install drive's EFI folder to your main startup drive EFI partition
     
 **Credits**
-- [OpenIntelWireless](https://github.com/OpenIntelWireless))
+- [OpenIntelWireless](https://github.com/OpenIntelWireless)
 - [OpenCore](https://github.com/acidanthera/OpenCorePkg)
 - [Acidanthera](https://github.com/acidanthera)
 - [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
