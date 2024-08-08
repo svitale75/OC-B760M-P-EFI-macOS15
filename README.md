@@ -1,4 +1,4 @@
-# An OpenCore (10.0.0) EFI that enables a MSI Pro B760M-P based PC to run macOS 15 Sequoia
+# macOS 15 Sequoia beta on B760M-P using OpenCore
 
 **Machine's specs:**
 - Motherboard details: [MSI PRO B760M-P DDR4 ProSeries Motherboard](https://www.amazon.com/MSI-PRO-B760M-P-DDR4-Motherboard/dp/B0BZ9T4KF6/ref=sr_1_1?crid=1C6RYKHS40TNJ&dib=eyJ2IjoiMSJ9.GhpKEwRFuTxcd-ltq56A7PBuBE8dxERMbwMMEbq6L-KOlXdrpTzWQDJO-PFB_oMMrteNJIicmYqUhpW7kA2-P-4BubzRkn4q95FE4PeziP15ZCSR7rXZj6dL0OGmN601pWONi-vuWLQfIC4DsLhSm94M5JfJuW2bwNJJklV3HeYEzlo_otFcaNgqRm_9rzRMCkcqWX2d2kPoP5VJV7_W_rmCWwJuW9Nch1hPWltpDo7KaLqfb9Qrln4ROCiUoJP1StiX4Mg611cRjRv90uue_cRziR42ODglOqtku1uzUKI.dlYZnt-JTAtltBvXbLdxzgpPeD6_EOVsKVXIz-9aH1Q&dib_tag=se&keywords=MSI+PRO+B760M-P&qid=1722815456&s=electronics&sprefix=msi+pro+b760m-p%2Celectronics%2C142&sr=1-1)
