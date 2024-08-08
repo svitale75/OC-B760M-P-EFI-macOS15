@@ -1,7 +1,7 @@
 # macOS 15 Sequoia beta on B760M-P using OpenCore
 
 <p align="center">
-<img width="128" src="img/sequoia.png">
+<img width="240" src="img/sequoia.png">
 </p>
 
 ### Preface
@@ -21,7 +21,7 @@ This EFI project ib build upon a previoous project used to instal Sonome [here](
 
 * Sequoia 15.0 Beta (24A5298h)
 
-###User's to do 
+### User's to do 
 1. Download Sequioia - [macOS 15.0 Beta (24A5298h)](https://swcdn.apple.com/content/downloads/48/45/062-39268-A_36NTYE5BPL/0cd85jhjwcbnmk5fqvu4yp323wcmzr9jmu/InstallAssistant.pkg)
 2. Download **OpenCore Legacy Patcher**
 3. Create mac OS istaller for macOS **Sequoia** to a drive
@@ -36,7 +36,7 @@ This EFI project ib build upon a previoous project used to instal Sonome [here](
 13. Download the RadeonGadget.app from this [repository](https://github.com/ChefKissInc/RadeonSensor) and add it as a login item to show GPU temp on the menu bar
 14. After the installation, move the install drive's EFI folder to your main startup drive EFI partition
     
-###Credits
+### Credits
 * [OpenIntelWireless](https://github.com/OpenIntelWireless)
 * [perez987](https://github.com/perez987/Intel-AX210-wifi6-on-macOS-Sonoma)
 * [OpenCore](https://github.com/acidanthera/OpenCorePkg)
@@ -44,7 +44,7 @@ This EFI project ib build upon a previoous project used to instal Sonome [here](
 * [OpenCore Legacy Parcher](https://dortania.github.io/OpenCore-Legacy-Patcher/)
 * [Mr. Macintosh](https://mrmacintosh.com/)
 
-###System info
+### System info
 
 <img src="img/info2.png"/>
 
