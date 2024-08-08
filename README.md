@@ -5,7 +5,7 @@
 </p>
 
 ### Preface
-This EFI project is build upon a previoous project aiming at instal Sonoma on the same hardware configuration [here](https://github.com/svitale75/OC-B760M-P-EFI-macOS) 
+This EFI project is build upon a previous one that worked well with Sonoma using the same hardware configuration [here](https://github.com/svitale75/OC-B760M-P-EFI-macOS) 
 
 ### Hardware
 
