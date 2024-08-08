@@ -5,7 +5,7 @@
 </p>
 
 ### Preface
-This EFI project ib build upon a previoous project used to instal Sonome [here]() 
+This EFI project is build upon a previoous project aiming at instal Sonoma on the same hardware configuration [here](https://github.com/svitale75/OC-B760M-P-EFI-macOS) 
 
 ### Hardware
 
@@ -17,7 +17,15 @@ This EFI project ib build upon a previoous project used to instal Sonome [here](
 
 ### BIOS settings
 
-###Works with
+|-- Security
+|-- Secure Boot
+|-- Secure Boot: Disabled
+
+Search
+|-- D.T.M
+|-- D.T.M: Enabled
+
+### Works with
 
 * Sequoia 15.0 Beta (24A5298h)
 
